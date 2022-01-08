@@ -1,4 +1,4 @@
-## This is the Title
+## The Title
 
   # Description
   This is the project description
@@ -20,7 +20,7 @@
 
    
 
-# Copyright (c) [2022] [data.username] [data.email]
+# Copyright (c) [2022] [BooMajka]
 
 
 
