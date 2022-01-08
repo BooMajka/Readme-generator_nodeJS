@@ -22,7 +22,7 @@ if (data.confirmAddLicense === false) {
   return "";
 }
 return `
-# Copyright (c) [${new Date().getFullYear()}] [{data.username}] [{data.email}]
+# Copyright (c) [${new Date().getFullYear()}] [data.username] [data.email]
 `;
 }
 
