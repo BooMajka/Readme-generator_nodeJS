@@ -1,13 +1,13 @@
-## The Project Title
+## This is the Title
 
   # Description
   This is the project description
 
   # Technologies
-  JavaScript,HTML,CSS
+  JavaScript,HTML,CSS,Bootstrap
 
   # Installation
-  few steps of installation goes here
+  npm install
 
   # Contribution
   none
@@ -16,15 +16,15 @@
   no tests
 
    # Questions?
-   Send me an email if you have any questions: 1234@gmail.com
+   Send me an email if you have any questions: 123@gmail.com
 
    
 
-# Copyright (c) [2022] [{data.username}] [{data.email}]
+# Copyright (c) [2022] [data.username] [data.email]
 
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%2300599C.svg?style=for-the-badge),![HTML](https://img.shields.io/badge/HTML-%2300599C.svg?style=for-the-badge),![CSS](https://img.shields.io/badge/CSS-%2300599C.svg?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2300599C.svg?style=for-the-badge),![HTML](https://img.shields.io/badge/HTML-%2300599C.svg?style=for-the-badge),![CSS](https://img.shields.io/badge/CSS-%2300599C.svg?style=for-the-badge),![Bootstrap](https://img.shields.io/badge/Bootstrap-%2300599C.svg?style=for-the-badge)
 
 
 
